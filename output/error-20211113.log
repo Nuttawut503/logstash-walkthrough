@@ -1,0 +1,7 @@
+{"host":"6931e208d9d9","path":"/usr/share/logstash/input/error-222222.log","@timestamp":"2021-11-13T06:34:59.281Z","message":"be","type":"error","@version":"1"}
+{"host":"6931e208d9d9","path":"/usr/share/logstash/input/error-222222.log","@timestamp":"2021-11-13T06:34:59.281Z","message":"would","type":"error","@version":"1"}
+{"host":"6931e208d9d9","path":"/usr/share/logstash/input/error-222222.log","@timestamp":"2021-11-13T06:34:59.282Z","message":"to","type":"error","@version":"1"}
+{"host":"6931e208d9d9","path":"/usr/share/logstash/input/error-222222.log","@timestamp":"2021-11-13T06:34:59.282Z","message":"sent","type":"error","@version":"1"}
+{"host":"6931e208d9d9","path":"/usr/share/logstash/input/error-222222.log","@timestamp":"2021-11-13T06:34:59.282Z","message":"error","type":"error","@version":"1"}
+{"host":"6931e208d9d9","path":"/usr/share/logstash/input/error-222222.log","@timestamp":"2021-11-13T06:34:59.280Z","message":"This","type":"error","@version":"1"}
+{"host":"6931e208d9d9","path":"/usr/share/logstash/input/error-222222.log","@timestamp":"2021-11-13T06:34:59.283Z","message":"log","type":"error","@version":"1"}

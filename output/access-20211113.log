@@ -1,0 +1,2 @@
+{"host":"6931e208d9d9","path":"/usr/share/logstash/input/access-111111.log","@timestamp":"2021-11-13T06:32:03.338Z","message":"Hello","type":"access","@version":"1"}
+{"host":"6931e208d9d9","path":"/usr/share/logstash/input/access-111111.log","@timestamp":"2021-11-13T06:32:08.385Z","message":"World","type":"access","@version":"1"}

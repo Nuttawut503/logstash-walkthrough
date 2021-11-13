@@ -1,0 +1,8 @@
+- pipeline.id: hello
+  path.config: "${PWD}/pipeline/01-hello.logstash.conf"
+- pipeline.id: file
+  path.config: "${PWD}/pipeline/02-file.logstash.conf"
+- pipeline.id: ifelse
+  path.config: "${PWD}/pipeline/03-ifelse.logstash.conf"
+- pipeline.id: pattern
+  path.config: "${PWD}/pipeline/04-pattern.logstash.conf"

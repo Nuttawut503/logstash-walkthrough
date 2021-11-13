@@ -1,0 +1,1 @@
+{"host":"172.17.0.1","@timestamp":"2021-11-13T06:32:56.279Z","headers":{"content_type":"application/json","http_accept":"*/*","request_method":"POST","http_host":"localhost:8082","content_length":"27","request_path":"/","http_version":"HTTP/1.1","http_user_agent":"curl/7.74.0"},"age":32,"@version":"1","type":"http","name":"adam"}
